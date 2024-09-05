@@ -1,0 +1,6 @@
+### Get Matrix Data
+
+GET http://localhost:3001/matrix
+Accept: application/json
+
+###
