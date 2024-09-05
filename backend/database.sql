@@ -47,8 +47,8 @@ INSERT INTO risk_matrix (row_name, col, value, color) VALUES
 
 -- Insert data for Row D
 INSERT INTO risk_matrix (row_name, col, value, color) VALUES
-('D', 1, 4, 'bg-white'),
-('D', 2, 6, 'bg-white'),
+('D', 1, 4, 'bg-red-500'),
+('D', 2, 6, 'bg-red-500'),
 ('D', 3, 5, 'bg-blue-900'),
 ('D', 4, 6, 'bg-blue-900'),
 ('D', 5, 7, 'bg-blue-900'),
@@ -58,8 +58,8 @@ INSERT INTO risk_matrix (row_name, col, value, color) VALUES
 
 -- Insert data for Row E
 INSERT INTO risk_matrix (row_name, col, value, color) VALUES
-('E', 1, 4, 'bg-white'),
-('E', 2, 5, 'bg-white'),
+('E', 1, 4, 'bg-red-500'),
+('E', 2, 5, 'bg-red-500'),
 ('E', 3, 6, 'bg-blue-900'),
 ('E', 4, 7, 'bg-blue-900'),
 ('E', 5, 8, 'bg-blue-900'),
@@ -69,7 +69,7 @@ INSERT INTO risk_matrix (row_name, col, value, color) VALUES
 
 -- Insert data for Row F
 INSERT INTO risk_matrix (row_name, col, value, color) VALUES
-('F', 1, 5, 'bg-white'),
+('F', 1, 5, 'bg-red-500'),
 ('F', 2, 6, 'bg-blue-900'),
 ('F', 3, 7, 'bg-blue-900'),
 ('F', 4, 8, 'bg-blue-900'),
@@ -80,7 +80,7 @@ INSERT INTO risk_matrix (row_name, col, value, color) VALUES
 
 -- Insert data for Row G
 INSERT INTO risk_matrix (row_name, col, value, color) VALUES
-('G', 1, 6, 'bg-white'),
+('G', 1, 6, 'bg-red-500'),
 ('G', 2, 7, 'bg-blue-900'),
 ('G', 3, 8, 'bg-blue-900'),
 ('G', 4, 9, 'bg-cyan-500'),
@@ -91,7 +91,7 @@ INSERT INTO risk_matrix (row_name, col, value, color) VALUES
 
 -- Insert data for Row H
 INSERT INTO risk_matrix (row_name, col, value, color) VALUES
-('H', 1, 7, 'bg-white'),
+('H', 1, 7, 'bg-red-500'),
 ('H', 2, 8, 'bg-blue-900'),
 ('H', 3, 9, 'bg-cyan-500'),
 ('H', 4, 10, 'bg-cyan-500'),
